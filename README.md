@@ -4,7 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Images
 
-###A winner image
 ![winner_image](https://github.com/sorinvisan89/angular-tic-tac-toe/blob/master/images/winner.png)
 
 ## Development server
